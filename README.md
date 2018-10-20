@@ -1,4 +1,4 @@
-**Create A dynamic marker with mapbox and php mysql**
+**ADD Plcae to google maps using php mysql javascript**
 
 ## intro
 in this tutorial you will learn how to add your current location using geolocation google map
